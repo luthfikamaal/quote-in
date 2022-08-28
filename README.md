@@ -1,6 +1,6 @@
-# Vue 3 Tailwind
+# quote-in - Random Quotes
 
-Random quote from [quotesapi](https://github.com/tanwanimohit/quotesapi).
+Random quotes from [quotesapi](https://github.com/tanwanimohit/quotesapi).
 
 ## Getting Started
 
